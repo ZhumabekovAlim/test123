@@ -10,6 +10,12 @@
 
 2.
 
-
+6.
+A → Borrowing and Returning Books
+B → Fine Management
+C → Reports and Analytics
+D → Performance Requirements
+E → Security Requirements
+F → Usability Requirements
 
 9 и 10 варианты ответов нужны

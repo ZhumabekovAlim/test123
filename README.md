@@ -1,6 +1,8 @@
 1.1     50.60
 1.2     6.89
-1.3     36.54 64.66
+1.3     
+Upper: 64.66 
+Lower: 36.54 
 1.4     50.60
 1.5     7.63
 1.6     1.11
@@ -17,5 +19,14 @@ C → Reports and Analytics
 D → Performance Requirements
 E → Security Requirements
 F → Usability Requirements
+
+8.
+strCustomerName: Hungarian
+Constructor parameters (customerID, customerName, email): Pascal
+getEmail (returning strEmail): Hungarian
+strSKU: Acronym
+prodItem: Hungarian
+AddOrderItem: Pascal
+strOTP: Acronym
 
 9 и 10 варианты ответов нужны

@@ -49,6 +49,8 @@ D → Performance Requirements
 E → Security Requirements
 F → Usability Requirements
 
+7. калькулятормен стей салндар халява все формулы есть
+
 8.
 strCustomerName: Hungarian
 Constructor parameters (customerID, customerName, email): Pascal
@@ -63,5 +65,5 @@ Bottom-up testing
 Stability testing
 Integration test
 Stability testing
- 
+
 10 варианты ответов нужны

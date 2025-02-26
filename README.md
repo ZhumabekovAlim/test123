@@ -75,4 +75,12 @@ Stability testing
 Integration test
 Stability testing
 
-10
+10.
+A  Ok Case
+B  Missing Semicolon
+C  Incorrect Comparison Index
+D  Index Out of Range Bug
+E  Undefined Variable
+F  Incorrect Loop Condition
+G  Missing Semicolon
+H  Ok Case

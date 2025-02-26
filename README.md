@@ -49,16 +49,19 @@ D → Performance Requirements
 E → Security Requirements
 F → Usability Requirements
 
-7. калькулятормен стей салндар халява все формулы есть
+7. 
+Age         n       E. P.      S.E.        Adj s.e.    CI                   CI Adj             Design Effect
+18-24       227     0.15       0.02        0.02        0.11 and 0.19        0.11 and 0.19      1.08
+55-64       212     0.14       0.02        0.02        0.10 and 0.18        0.10 and 0.18      1.07
 
 8.
-strCustomerName: Hungarian
-Constructor parameters (customerID, customerName, email): Pascal
-getEmail (returning strEmail): Hungarian
-strSKU: Acronym
-prodItem: Hungarian
-AddOrderItem: Pascal
-strOTP: Acronym
+strCustomerName:        Hungarian
+Constructor parameters (customerID, customerName, email):       Pascal
+getEmail (returning strEmail):      Hungarian
+strSKU:         Acronym
+prodItem:       Hungarian
+AddOrderItem:       Pascal
+strOTP:         Acronym
 
 9.
 Bottom-up testing
@@ -66,4 +69,4 @@ Stability testing
 Integration test
 Stability testing
 
-10 варианты ответов нужны
+10

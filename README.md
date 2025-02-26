@@ -29,6 +29,12 @@ Lower: 36.54
 Number of '1' predictions in first 10 rows: 6
 
 4.
+a4 = [0.995, 0.005]
+a3.min() = -0.872
+W4.max() = 3.78
+W3.min() = -3.23
+Loss after 10000 epochs: 0.015
+NN predicts image of dog
 
 
 5.

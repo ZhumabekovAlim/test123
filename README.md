@@ -58,4 +58,10 @@ prodItem: Hungarian
 AddOrderItem: Pascal
 strOTP: Acronym
 
-9 и 10 варианты ответов нужны
+9.
+Bottom-up testing
+Stability testing
+Integration test
+Stability testing
+ 
+10 варианты ответов нужны

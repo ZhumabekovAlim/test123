@@ -64,10 +64,10 @@ Age         n       E. P.      S.E.        Adj s.e.    CI                   CI A
 strCustomerName:        Hungarian
 Constructor parameters (customerID, customerName, email):       Pascal
 getEmail (returning strEmail):      Hungarian
-strSKU:         Acronym
+strSKU:         Hungarian
 prodItem:       Hungarian
 AddOrderItem:       Pascal
-strOTP:         Acronym
+strOTP:         Hungarian
 
 9.
 Bottom-up testing

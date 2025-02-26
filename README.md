@@ -11,6 +11,24 @@ Lower: 36.54
 1.9     13.01
 
 2.
+| #Iterations |  Cost (rounded)  |  max|theta| (rounded) |
+|-------------|-------------------|-----------------------|
+| n=  10      | 895241              | 2167                   |
+| n= 100      | 42271              | 3328                   |
+| n=1000      | 1261              | 3328                   |
+
+3.
+
+
+5.
+a)    accuracy of algorithm   0.567
+
+b)
+ Precision     Recall     F1-score
+     0.5       0.3        0.375
+     0.5       0.6        0.545
+     0.667     0.8        0.727
+
 
 6.
 A → Borrowing and Returning Books

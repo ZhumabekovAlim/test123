@@ -1,0 +1,7 @@
+
+9.Top-down testing
+bottom-up testing
+perfomance testing
+stress testing
+stability testing
+integration test
